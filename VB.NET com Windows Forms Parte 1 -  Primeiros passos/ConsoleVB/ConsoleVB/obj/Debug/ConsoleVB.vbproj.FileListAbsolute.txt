@@ -1,0 +1,11 @@
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\bin\Debug\ConsoleVB.exe.config
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\bin\Debug\ConsoleVB.exe
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\bin\Debug\ConsoleVB.pdb
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\bin\Debug\ConsoleVB.xml
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.vbprojAssemblyReference.cache
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.Resources.resources
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.vbproj.GenerateResource.cache
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.vbproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.exe
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.xml
+C:\Users\Caleum\source\repos\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.pdb
