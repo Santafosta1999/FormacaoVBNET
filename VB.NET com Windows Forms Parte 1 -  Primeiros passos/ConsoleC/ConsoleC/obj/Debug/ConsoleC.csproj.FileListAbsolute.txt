@@ -1,0 +1,7 @@
+C:\Users\Caleum\source\repos\ConsoleC\ConsoleC\bin\Debug\ConsoleC.exe.config
+C:\Users\Caleum\source\repos\ConsoleC\ConsoleC\bin\Debug\ConsoleC.exe
+C:\Users\Caleum\source\repos\ConsoleC\ConsoleC\bin\Debug\ConsoleC.pdb
+C:\Users\Caleum\source\repos\ConsoleC\ConsoleC\obj\Debug\ConsoleC.csprojAssemblyReference.cache
+C:\Users\Caleum\source\repos\ConsoleC\ConsoleC\obj\Debug\ConsoleC.csproj.CoreCompileInputs.cache
+C:\Users\Caleum\source\repos\ConsoleC\ConsoleC\obj\Debug\ConsoleC.exe
+C:\Users\Caleum\source\repos\ConsoleC\ConsoleC\obj\Debug\ConsoleC.pdb
